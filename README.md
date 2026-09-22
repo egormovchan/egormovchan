@@ -17,4 +17,4 @@ lexical, syntactic and semantic analysis, and AST transformations.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/egormovchan/) · [egor@movchan.dev](mailto:egor@movchan.dev)
+[egor@movchan.dev](mailto:egor@movchan.dev)
