@@ -5,7 +5,7 @@
 Software engineer at **Yandex AdTech**, working on **C++ backend services**.
 
 My work focuses on data access performance and request reliability. I'm also
-interested in distributed systems and compiler development.
+interested in distributed systems.
 
 ## Selected open-source contribution
 
