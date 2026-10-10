@@ -16,3 +16,5 @@ a statically typed language with Python-like syntax. My contribution covers
 lexical, syntactic and semantic analysis, and AST transformations.
 
 [Merged into PascalABC.NET in June 2025](https://github.com/pascalabcnet/pascalabcnet/pull/3274).
+
+Algorithm practice: [350+ LeetCode problems solved](https://leetcode.com/u/egormovchan/), primarily Medium.
